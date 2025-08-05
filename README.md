@@ -1,2 +1,2 @@
 # my-first-repo
-Learning DevOps using GitHub
+Kavya-Aditya degree college
